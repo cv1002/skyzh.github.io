@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Chi</title>
+    <link>https://www.skyzh.dev/</link>
+    <description>Recent content on Alex Chi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Alex Chi</copyright>
+    <lastBuildDate>Fri, 15 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.skyzh.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Academic Profile</title>
+      <link>https://www.skyzh.dev/posts/academic/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.skyzh.dev/posts/academic/</guid>
+      <description>Introduction I’m a junior undergraduate student studying Computer Science in Shanghai Jiao Tong University (SJTU). I’m expected to graduate in 2022.
+My real name is Chi Zhang. As the name is too common in Chinese culture, I’m generally referred to as Alex Chi.
+In my second year at SJTU, I applied for a research internship. It turned out that the whole experience was a disaster for me. For half a year I had nothing to do, except attending weekly lab meetups.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://www.skyzh.dev/posts/about/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.skyzh.dev/posts/about/</guid>
+      <description>Study Computer Science. Reinvent the wheels. Code for fun. Make things happen.
+I reinvent the wheels. 📦 AgateDB 🖥️ core-os-riscv
+I contribute to open-source projects. TiKV SJTUG mirror
+And do some cool things. 🌈 Real-Time Air Quality
+More about me. Academic Profile</description>
+    </item>
+    
+  </channel>
+</rss>
